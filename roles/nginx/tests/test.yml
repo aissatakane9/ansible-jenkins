@@ -1,5 +1,5 @@
 ---
-- hosts: 10.0.200.83
+- hosts: localhost
   remote_user: root
   roles:
     - curl
